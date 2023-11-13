@@ -1,5 +1,5 @@
 # Free Screenshot API - Screenshotbase
-Screenshotbase is a screenshot API.
+Screenshotbase is a screen shot API.
 
 # Get your free account at [https://screenshotbase.com](https://screenshotbase.com)
 
